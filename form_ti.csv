@@ -1,0 +1,116 @@
+ID;idade;estado;data_inicio;identidade_genero;orientacao_sexual;onde_esta_atuando;dias_remoto;dias_escritorio;nivel;tempo_demandas;confortavel;fadiga_mental;neurodiversidade;qual_neurodiversidade;treinamento_ie
+1;25 a 29;Alagoas;31/01/2022;Homem Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;10 horas;Sim;7;Sim;Transtorno do déficit de atenção com hiperatividade (TDAH);
+2;30 a 39;São Paulo;03/01/2022;Homem Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;8 horas;Sim;4;Sim;Transtorno do déficit de atenção com hiperatividade (TDAH);
+3;40 a 49;São Paulo;21/12/2021;Mulher Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;10 horas;Sim;8;Nao;Nenhuma;Sim
+4;25 a 29;Espírito Santo;17/01/2022;Homem Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;8 horas;Não;10;Nao;Nenhuma;Sim
+5;40 a 49;São Paulo;07/02/2022;Homem Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;2 horas;Sim;6;Nao;Nenhuma;Sim
+6;25 a 29;São Paulo;18/10/2021;Homem Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;6 horas;Sim;7;Sim;Transtorno do déficit de atenção com hiperatividade (TDAH);
+7;30 a 39;Rio de Janeiro;30/11/2021;Mulher Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;8 horas;Sim;7;Sim;TAG - Transtorno de Ansiedade Generalizada;
+8;50 a 59;São Paulo;06/12/2021;Mulher Cisgênero;Heterossexual;Produto Interno;5;0;Senior;8 horas;Sim;8;Nao;Nenhuma;Sim
+9;25 a 29;São Paulo;25/02/2022;Mulher Cisgênero;Heterossexual;Squad;5;0;Pleno;8 horas;Sim;1;Nao;Nenhuma;Sim
+10;40 a 49;São Paulo;11/04/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;6 horas;Sim;8;Nao;Nenhuma;Não
+11;30 a 39;São Paulo;24/02/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;3;Nao;Nenhuma;Sim
+12;30 a 39;Rio de Janeiro;10/05/2022;Mulher Cisgênero;Bissexual;Laboratórios;5;0;Trainee;6 horas;Sim;3;Nao;Nenhuma;Sim
+13;18 a 24;São Paulo;16/11/2021;Homem Cisgênero;Heterossexual;Produto Interno;5;0;Senior;8 horas;Sim;1;Nao;Nenhuma;Sim
+14;25 a 29;Alagoas;04/04/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;9 horas;Sim;1;Sim;Transtorno do déficit de atenção com hiperatividade (TDAH);
+15;18 a 24;Maranhão;01/04/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;5 horas;Sim;7;Nao;Nenhuma;Sim
+16;30 a 39;Paraná;04/04/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;3;Nao;Nenhuma;Sim
+17;30 a 39;Espírito Santo;15/11/2021;Homem Cisgênero;Heterossexual;Projeto Interno;5;0;Pleno;8 horas;Sim;2;Sim;Transtorno do déficit de atenção com hiperatividade (TDAH);
+18;30 a 39;São Paulo;13/11/2021;Não sei responder;Heterossexual;Squad;5;0;Pleno;8 horas;Não;2;Sim;Transtorno do déficit de atenção com hiperatividade (TDAH);
+19;25 a 29;São Paulo;07/02/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Não;6;Nao;Nenhuma;Não
+20;30 a 39;São Paulo;06/06/2022;Mulher Cisgênero;Heterossexual;Projeto Interno;5;0;Pleno;8 horas;Sim;7;Sim;ansiedade;
+21;40 a 49;Bahia;08/04/2022;Mulher Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;4;Nao;Nenhuma;Sim
+22;40 a 49;Rio Grande do Sul;24/01/2022;Mulher Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;8 horas;Sim;5;Nao;Nenhuma;Sim
+23;30 a 39;Pará;12/11/2021;Homem Cisgênero;Heterossexual;Projeto Interno;5;0;Pleno;8 horas;Sim;3;Nao;Nenhuma;Sim
+24;25 a 29;São Paulo;01/02/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;7;Nao;Nenhuma;Sim
+25;30 a 39;São Paulo;19/10/2021;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;6;Nao;Nenhuma;Sim
+26;25 a 29;Espírito Santo;22/11/2021;Não sei responder;Heterossexual;Squad;5;0;Pleno;8 horas;Sim;2;Nao;Nenhuma;Sim
+27;25 a 29;São Paulo;15/04/2022;Mulher Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;5 horas;Sim;6;Nao;Nenhuma;Sim
+28;25 a 29;Minas Gerais;28/01/2022;Mulher Cisgênero;Homossexual;Laboratórios;5;0;Trainee;8 horas;Sim;8;Nao;Nenhuma;Sim
+29;18 a 24;Espírito Santo;10/01/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;7;Nao;Nenhuma;Sim
+30;18 a 24;Bahia;30/08/2021;Homem Cisgênero;Heterossexual;Squad;5;0;Pleno;8 horas;Sim;4;Nao;Nenhuma;Não
+31;40 a 49;São Paulo;16/06/2021;Mulher Cisgênero;Heterossexual;Projeto de Cliente;5;0;Senior;8 horas;Não;5;Nao;Nenhuma;Tenho interesse
+32;50 a 59;São Paulo;12/05/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;6;Nao;Nenhuma;Sim
+33;40 a 49;São Paulo;15/11/2021;Homem Cisgênero;Heterossexual;Projeto de Cliente;5;0;Senior;8 horas;Sim;3;Nao;Nenhuma;Não
+34;60 a 70;São Paulo;16/06/2021;Homem Cisgênero;Heterossexual;Projeto Interno;5;0;Pleno;8 horas;Sim;2;Nao;Nenhuma;Não
+35;25 a 29;São Paulo;02/02/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;1;Nao;Nenhuma;Sim
+36;18 a 24;Pará;19/03/2021;Mulher Transgênero;Heterossexual;Produto do Cliente;5;0;Senior;4 horas;Sim;6;Sim;Transtorno Afetivo Bipolar (TAB);
+37;25 a 29;Bahia;09/05/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;1;Nao;Nenhuma;Não
+38;30 a 39;São Paulo;21/03/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;2;Nao;Nenhuma;Sim
+39;30 a 39;São Paulo;07/06/2022;Homem Cisgênero;Heterossexual;Squad;5;0;Pleno;8 horas;Sim;3;Nao;Nenhuma;Sim
+40;30 a 39;Rio de Janeiro;09/05/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;3;Nao;Nenhuma;Não
+41;25 a 29;São Paulo;21/12/2021;Mulher Cisgênero;Bissexual;Projeto Integrado;5;0;Junior;8 horas;Sim;4;Nao;Nenhuma;Não
+42;30 a 39;São Paulo;22/11/2021;Homem Cisgênero;Heterossexual;Projeto Interno;5;0;Pleno;8 horas;Sim;6;Nao;Nenhuma;Sim
+43;40 a 49;Distrito Federal;01/12/2021;Homem Cisgênero;Heterossexual;Produto do Cliente;5;0;Senior;8 horas;Sim;1;Nao;Nenhuma;Não
+44;18 a 24;Rio de Janeiro;02/03/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;5;Nao;Nenhuma;Sim
+45;25 a 29;São Paulo;25/04/2022;Mulher Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;9 horas;Sim;4;Sim;Epilepsia;
+46;30 a 39;Minas Gerais;13/12/2021;Mulher Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;8 horas;Sim;7;Sim;Depressão;
+47;18 a 24;São Paulo;24/06/2019;Homem Cisgênero;Heterossexual;Projeto de Cliente;5;0;Senior;8 horas;Sim;3;Nao;Nenhuma;Não
+48;30 a 39;Rio de Janeiro;18/01/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;11 horas;Sim;3;Nao;Nenhuma;Sim
+49;25 a 29;Paraná;04/04/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;7;Nao;Nenhuma;Sim
+50;25 a 29;São Paulo;10/05/2021;Queer;Homossexual;Projeto de Cliente;5;0;Senior;8 horas;Sim;7;Nao;Nenhuma;Não
+51;40 a 49;São Paulo;14/09/2020;Outro;Heterossexual;Projeto de Cliente;5;0;Senior;8 horas;Sim;7;Nao;Nenhuma;Não
+52;18 a 24;Pernambuco;16/05/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;2 horas;Sim;4;Nao;Nenhuma;Tenho interesse
+53;30 a 39;Ceará;11/03/2022;Mulher Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;7 horas;Sim;1;Sim;Burnout;
+54;30 a 39;São Paulo;06/05/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;2;Nao;Nenhuma;Não
+55;18 a 24;Rio de Janeiro;14/02/2022;Mulher Cisgênero;Prefiro não me Classificar;Laboratórios;5;0;Trainee;9 horas;Sim;8;Sim;Transtorno do Espectro Autista (TEA);
+56;25 a 29;Rio de Janeiro;01/02/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;7;Nao;Nenhuma;Sim
+57;50 a 59;São Paulo;22/03/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;5 horas;Não;8;Nao;Nenhuma;Sim
+58;18 a 24;Bahia;30/07/2021;Mulher Cisgênero;Heterossexual;Produto do Cliente;5;0;Senior;8 horas;Sim;5;Nao;Nenhuma;Não
+59;25 a 29;São Paulo;20/12/2021;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;5 horas;Sim;1;Nao;Nenhuma;Sim
+60;18 a 24;São Paulo;01/02/2021;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;1 hora;Não;10;Sim;Transtorno Obsessivo Compulsivo (TOC) ;
+61;25 a 29;São Paulo;21/03/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;1;Nao;Nenhuma;Sim
+62;40 a 49;São Paulo;08/02/2021;Mulher Cisgênero;Heterossexual;Projeto Interno;5;0;Pleno;8 horas;Sim;4;Nao;Nenhuma;Sim
+63;18 a 24;São Paulo;06/09/2021;Mulher Cisgênero;Heterossexual;Projeto Interno;5;0;Pleno;8 horas;Sim;3;Nao;Nenhuma;Não
+64;30 a 39;São Paulo;04/04/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;8;Nao;Nenhuma;Sim
+65;18 a 24;São Paulo;27/09/2021;Homem Cisgênero;Heterossexual;Squad;5;0;Pleno;8 horas;Sim;5;Nao;Nenhuma;Sim
+66;30 a 39;Santa Catarina;06/12/2021;Mulher Cisgênero;Heterossexual;Squad;5;0;Pleno;11 horas;Sim;7;Sim;Transtorno do déficit de atenção com hiperatividade (TDAH);
+67;18 a 24;São Paulo;06/06/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;7;Nao;Nenhuma;Sim
+68;18 a 24;São Paulo;20/08/2021;Homem Cisgênero;Heterossexual;Projeto de Cliente;5;0;Senior;8 horas;Sim;2;Nao;Nenhuma;Sim
+69;25 a 29;Goiás;16/05/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;7;Nao;Nenhuma;Não
+70;18 a 24;São Paulo;07/04/2021;Homem Cisgênero;Heterossexual;Projeto de Cliente;5;0;Senior;4 horas;Sim;5;Nao;Nenhuma;Não
+71;25 a 29;São Paulo;03/05/2021;Homem Cisgênero;Heterossexual;Projeto de Cliente;5;0;Senior;8 horas;Sim;8;Nao;Nenhuma;Não
+72;18 a 24;Paraíba;05/10/2021;Mulher Cisgênero;Bissexual;Projeto Integrado;5;0;Junior;3 horas;Sim;7;Nao;Nenhuma;Não
+73;30 a 39;São Paulo;03/01/2022;Outro;Heterossexual;Projeto Integrado;5;0;Junior;8 horas;Sim;7;Nao;Nenhuma;Não
+74;25 a 29;São Paulo;06/09/2021;Mulher Cisgênero;Heterossexual;Squad;5;0;Pleno;8 horas;Sim;9;Sim;Ansiedade / síndrome do pânico ;
+75;50 a 59;São Paulo;20/09/2021;Homem Cisgênero;Heterossexual;Projeto de Cliente;5;0;Senior;8 horas;Sim;1;Nao;Nenhuma;Sim
+76;40 a 49;São Paulo;08/12/2020;Mulher Cisgênero;Heterossexual;Projeto de Cliente;5;0;Senior;6 horas;Sim;7;Sim;Depressão;
+77;18 a 24;São Paulo;28/03/2022;Mulher Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;7 horas;Sim;4;Nao;Nenhuma;Sim
+78;60 a 70;São Paulo;15/10/2021;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;3;Nao;Nenhuma;Sim
+79;30 a 39;Amazonas;23/03/2022;Outro;Prefiro não responder;Laboratórios;5;0;Trainee;8 horas;Sim;3;Nao;Nenhuma;Sim
+80;30 a 39;Rio de Janeiro;05/10/2021;Mulher Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;1;Sim;Síndrome de Asperger;
+81;25 a 29;Mato Grosso;10/01/2022;Homem Cisgênero;Heterossexual;Projeto Interno;5;0;Pleno;8 horas;Sim;7;Nao;Nenhuma;Sim
+82;25 a 29;São Paulo;24/01/2022;Homem Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;8 horas;Sim;1;Nao;Nenhuma;Sim
+83;25 a 29;Pará;21/02/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;6;Sim;Transtorno do Espectro Autista (TEA);
+84;25 a 29;Rio de Janeiro;04/10/2021;Mulher Cisgênero;Bissexual;Squad;5;0;Pleno;8 horas;Sim;3;Nao;Nenhuma;Sim
+85;30 a 39;Minas Gerais;11/04/2022;Mulher Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;4;Nao;Nenhuma;Não
+86;30 a 39;Minas Gerais;26/04/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;4;Nao;Nenhuma;Sim
+87;40 a 49;Minas Gerais;16/05/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;3;Nao;Nenhuma;Tenho interesse
+88;30 a 39;Amazonas;10/01/2022;Mulher Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;5;Nao;Nenhuma;Sim
+89;25 a 29;Pará;01/02/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;5;Nao;Nenhuma;Sim
+90;30 a 39;Pernambuco;29/04/2022;Mulher Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;8;Nao;Nenhuma;Sim
+91;30 a 39;Paraná;01/04/2019;Homem Cisgênero;Bissexual;Projeto de Cliente;5;0;Senior;8 horas;Sim;8;Nao;Nenhuma;Tenho interesse
+92;25 a 29;São Paulo;24/01/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;5;Nao;Nenhuma;Não
+93;18 a 24;São Paulo;29/03/2021;Homem Cisgênero;Bissexual;Projeto Integrado;5;0;Junior;8 horas;Sim;6;Nao;Nenhuma;Não
+94;18 a 24;Pernambuco;04/10/2021;Homem Cisgênero;Heterossexual;Squad;5;0;Pleno;8 horas;Sim;5;Nao;Nenhuma;Sim
+95;30 a 39;Pará;20/04/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Não;3;Nao;Nenhuma;Sim
+96;18 a 24;São Paulo;26/04/2021;Mulher Cisgênero;Homossexual;Projeto de Cliente;4;1;Senior;1 hora;Sim;3;Nao;Nenhuma;Sim
+97;25 a 29;São Paulo;29/10/2021;Homem Cisgênero;Heterossexual;Squad;5;0;Pleno;8 horas;Sim;3;Sim;Depressão;
+98;25 a 29;São Paulo;25/04/2022;Homem Cisgênero;Heterossexual;Projeto Interno;5;0;Pleno;8 horas;Sim;1;Nao;Nenhuma;Não
+99;50 a 59;São Paulo;28/06/2021;Homem Cisgênero;Heterossexual;Squad;5;0;Pleno;8 horas;Sim;5;Nao;Nenhuma;Tenho interesse
+100;25 a 29;São Paulo;19/11/2021;Homem Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;8 horas;Sim;6;Nao;Nenhuma;Sim
+101;25 a 29;Distrito Federal;11/04/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;3;Nao;Nenhuma;Sim
+102;18 a 24;São Paulo;03/01/2022;Mulher Transgênero;Heterossexual;Projeto Integrado;5;0;Junior;7 horas;Sim;7;Nao;Nenhuma;Tenho interesse
+103;40 a 49;Rio de Janeiro;21/12/2021;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;4;Nao;Nenhuma;Sim
+104;40 a 49;Rio de Janeiro;21/06/2021;Mulher Cisgênero;Bissexual;Squad;5;0;Pleno;8 horas;Sim;3;Nao;Nenhuma;Não
+105;30 a 39;São Paulo;06/12/2021;Homem Cisgênero;Heterossexual;Squad;5;0;Pleno;2 horas;Sim;6;Nao;Nenhuma;Sim
+106;18 a 24;São Paulo;04/02/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;3;Nao;Nenhuma;Sim
+107;30 a 39;Pernambuco;17/01/2022;Homem Cisgênero;Heterossexual;Projeto Integrado;5;0;Junior;9 horas;Sim;7;Nao;Nenhuma;Sim
+108;18 a 24;Paraná;06/06/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;3;Sim;Depressão;
+109;50 a 59;São Paulo;17/01/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;6;Nao;Nenhuma;Sim
+110;50 a 59;Santa Catarina;26/01/2022;Não sei responder;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;5;Sim;Depressão;
+111;25 a 29;Alagoas;21/12/2021;Homem Cisgênero;Heterossexual;Squad;5;0;Pleno;8 horas;Sim;3;Nao;Nenhuma;Sim
+112;18 a 24;Rio de Janeiro;02/05/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;8 horas;Sim;8;Sim;Transtorno do déficit de atenção com hiperatividade (TDAH);
+113;25 a 29;São Paulo;21/03/2022;Homem Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;7 horas;Sim;2;Sim;Crise de ansiedada;
+114;25 a 29;São Paulo;11/01/2021;Mulher Cisgênero;Heterossexual;Laboratórios;5;0;Trainee;4 horas;Sim;4;Nao;Nenhuma;Não
+              ;;;;;;;;;;;;;;;
